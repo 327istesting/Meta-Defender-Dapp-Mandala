@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>safe-1</title>
+    <defs>
+        <circle id="path-1" cx="15" cy="15" r="15"></circle>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="safe-1">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="蒙版" fill="#1649FF" xlink:href="#path-1"></use>
+            <path d="M14.19,4.1725 L7.19,7.2825 C6.47,7.6025 6,8.3225 6,9.1125 L6,13.8125 C6,19.3625 9.84,24.5525 15,25.8125 C20.16,24.5525 24,19.3625 24,13.8125 L24,9.1125 C24,8.3225 23.53,7.6025 22.81,7.2825 L15.81,4.1725 C15.3,3.9425 14.7,3.9425 14.19,4.1725 Z M15,14.8025 L22,14.8025 C21.47,18.9225 18.72,22.5925 15,23.7425 L15,14.8125 L8,14.8125 L8,9.1125 L15,6.0025 L15,14.8025 Z" id="形状" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>
